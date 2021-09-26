@@ -4,7 +4,7 @@ School Teacher Team Member Web Site .
 
 ## Diploy Link
 
-This project was bootstrapped with [Live Link](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Live Link Our School](https://upbeat-wiles-a27a0e.netlify.app/).
 
 ### `Web Page Status`
 
