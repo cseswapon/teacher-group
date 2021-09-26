@@ -1,0 +1,21 @@
+.main-teacher{
+    margin: 0px auto;
+    margin-top: 20px;
+    width: 90%;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.card-show{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 0px;
+}
+.grand-total{
+    margin-left: 30px;
+    margin-top: 10px;
+    padding: 10px;
+    height: 120px;
+    border: 2px dotted gray;
+    border-radius: 10px;
+    background-color: #c3e6ee;
+}

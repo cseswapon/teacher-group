@@ -1,0 +1,41 @@
+.card-info{
+    width: 87%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 2px solid #6e6d6d8a;
+    background: border-box;
+}
+.card-info:hover{
+    background-color: #c3e6ee;
+    border: 2px solid orange;
+}
+.card-info img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid rgb(255, 255, 255);
+}
+.cart-btn{
+    text-align: center;
+}
+.cart-btn button{
+    background-color: orange;
+    width: 140px;
+    padding: 10px;
+    border: 0px;
+    cursor: pointer;
+    border-radius: 2px;
+}
+.socail-media{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+.linkedin,.facebook{
+    font-size: 30px;
+    cursor: pointer;
+}
+.linkedin a,.facebook a{
+    color: rgb(14 13 13 / 60%);
+}

@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Hashem Mia",
+        "nid": 3234,
+        "age": 25,
+        "nationality": "Bangladeshi",
+        "salary": 25000,
+        "img": "https://images.pexels.com/photos/1699159/pexels-photo-1699159.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Abbas Hannan",
+        "nid": 2035,
+        "age": 24,
+        "nationality": "Indian",
+        "salary": 23000,
+        "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Kashem Sikder",
+        "nid": 1263,
+        "age": 25,
+        "nationality": "Bangladeshi",
+        "salary": 26000,
+        "img": "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Soliman Sadhin",
+        "nid": 1237,
+        "age": 20,
+        "nationality": "China",
+        "salary": 18000,
+        "img": "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Karina Jahan",
+        "nid": 7985,
+        "age": 25,
+        "nationality": "Bangladeshi",
+        "salary": 28000,
+        "img": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Jhon Deo",
+        "nid": 8952,
+        "age": 23,
+        "nationality": "USA",
+        "salary": 35000,
+        "img": "https://images.pexels.com/photos/1121796/pexels-photo-1121796.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Baker Mia",
+        "nid": 9674,
+        "age": 27,
+        "nationality": "Bangladeshi",
+        "salary": 20000,
+        "img": "https://images.pexels.com/photos/775358/pexels-photo-775358.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Suruj Hannan",
+        "nid": 5846,
+        "age": 24,
+        "nationality": "Canada",
+        "salary": 32000,
+        "img": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Srijan Mondole",
+        "nid": 8791,
+        "age": 25,
+        "nationality": "USA",
+        "salary": 35000,
+        "img": "https://images.pexels.com/photos/868113/pexels-photo-868113.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Swapon Via",
+        "nid": 8784,
+        "age": 20,
+        "nationality": "Bangladeshi",
+        "salary": 20000,
+        "img": "https://images.pexels.com/photos/718261/pexels-photo-718261.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Kashem Mia",
+        "nid": 8994,
+        "age": 24,
+        "nationality": "Bangladeshi",
+        "salary": 21000,
+        "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Sunil Disama",
+        "nid": 7878,
+        "age": 23,
+        "nationality": "Indian",
+        "salary": 20000,
+        "img": "https://images.pexels.com/photos/1073097/pexels-photo-1073097.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Sumon Sing",
+        "nid": 5858,
+        "age": 22,
+        "nationality": "Bangladeshi",
+        "salary": 25000,
+        "img": "https://images.pexels.com/photos/1043473/pexels-photo-1043473.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Honny Sing",
+        "nid": 5845,
+        "age": 20,
+        "nationality": "Indian",
+        "salary": 20000,
+        "img": "https://images.pexels.com/photos/1036627/pexels-photo-1036627.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Hridu Suma",
+        "nid": 8748,
+        "age": 22,
+        "nationality": "USA",
+        "salary": 30000,
+        "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Habu Vai",
+        "nid": 8899,
+        "age": 20,
+        "nationality": "Bangladeshi",
+        "salary": 20000,
+        "img": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "Pash Hama",
+        "nid": 7825,
+        "age": 22,
+        "nationality": "Bangladeshi",
+        "salary": 17000,
+        "img": "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+]
