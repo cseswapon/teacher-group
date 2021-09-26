@@ -1,4 +1,4 @@
-# Getting Started with Our School Web Page
+# Web Site Name School Teacher
 
 School Teacher Team Member Web Site .
 
